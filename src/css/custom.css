@@ -1,0 +1,17 @@
+@media (max-width: 640px) {
+  .bg-mobile {
+    background-image: url("../assets/loginPage.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (max-width: 768px) {
+  .bg-mobile {
+    background-image: url("../assets/loginPage.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
